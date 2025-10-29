@@ -33,3 +33,10 @@ g-left-eye {
 	top: 130px;
 	left: 230px;
 }
+g-mouth {
+  width: 100px;
+  height: 40px;
+  stroke: black;
+  stroke-width: 2;
+  fill: none;
+}
